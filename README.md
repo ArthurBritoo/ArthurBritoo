@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C000&size=40&center=true&vCenter=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg)
+
 <h1 align="center">Arthur de Brito Lima</h1>
 <p align="center">
   🎓 Estudante de Sistemas de Informação <br>
@@ -52,7 +54,7 @@ Aplicativo de gerenciamento de tarefas com interface gráfica moderna e suporte 
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-de-brito-lima-b58a42355/)
-- 📧 arthurbr.lima@gmail.com
+<a href = "arthurbr.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/arthurbritolima/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
