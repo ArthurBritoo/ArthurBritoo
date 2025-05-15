@@ -53,6 +53,6 @@ Aplicativo de gerenciamento de tarefas com interface gráfica moderna e suporte 
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-de-brito-lima-b58a42355/)
-- 📧 arthur.contato.dev@gmail.com
+- 📧 arthurbr.lima@gmail.com
 
 ---
