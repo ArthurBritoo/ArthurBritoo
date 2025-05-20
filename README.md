@@ -12,7 +12,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante do 2º período de **Sistemas de Informação** na Universidade Federal Rural de Pernambuco (UFRPE).  
-Tenho interesse em desenvolvimento de aplicações com Python, algoritmos matemáticos, e construção de interfaces gráficas com Kivy/KivyMD.
+Tenho interesse em desenvolvimento de aplicações com Python, algoritmos matemáticos, e construção de interfaces gráficas.
 
 Atualmente, foco em projetos que me ajudam a aprender na prática, como aplicativos de produtividade e simulações algorítmicas.
 
