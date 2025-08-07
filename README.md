@@ -49,7 +49,6 @@ Pensamento algorítmico aplicado a problemas reais
 Integração de lógica de negócio com front-end
 
 Simulação e testes de funcionalidades em diferentes plataformas
----
 
 ## 🧠 Projetos em Destaque
 
