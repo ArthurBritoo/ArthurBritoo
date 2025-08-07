@@ -19,16 +19,36 @@ Atualmente, foco em projetos que me ajudam a aprender na prática, como aplicati
 ---
 
 ## 🚀 Tecnologias e Ferramentas
+Linguagem Principal: Python 🐍
 
-- **Linguagem principal:** Python 🐍
-- **Frameworks:** Kivy | KivyMD
-- **Ferramentas:** Git | GitHub
-- **Conhecimentos:**  
-  - Estrutura de Dados  
-  - Programação Orientada a Objetos (POO)  
-  - Algoritmos Matemáticos e Recursivos  
-  - Desenvolvimento de Interfaces Gráficas
+Frameworks & Bibliotecas: Kivy | KivyMD | Plyer
 
+Ferramentas: Git | GitHub | VSCode
+
+Paradigmas & Práticas:
+
+Programação Orientada a Objetos (POO)
+
+Estruturação modular de projetos
+
+Boas práticas de versionamento e documentação
+
+## 🧠 Conhecimentos Aplicados
+Estruturas de Dados (listas, dicionários, filas, etc.)
+
+Algoritmos Matemáticos e Recursivos
+
+Desenvolvimento de Interfaces Gráficas Responsivas
+
+Implementação de Sistemas de Notificações Automatizadas
+
+Manipulação de Arquivos (JSON)
+
+Pensamento algorítmico aplicado a problemas reais
+
+Integração de lógica de negócio com front-end
+
+Simulação e testes de funcionalidades em diferentes plataformas
 ---
 
 ## 🧠 Projetos em Destaque
